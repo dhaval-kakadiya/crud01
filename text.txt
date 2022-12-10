@@ -1,0 +1,8 @@
+// 1. read data from orders resllers and vendor
+// 2. upadate resller and vendor data
+// 3. read vendor data by id
+// 5. delete resller by id
+// 6. update order tracking statush by id of order
+// 7. find vendor order by status
+// 8. add and remove follow request from vendor to resller
+// 9. filter orders from same vendor followd by same resller
