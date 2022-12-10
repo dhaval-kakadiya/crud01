@@ -22,12 +22,12 @@ exports.getAllReseller = async (req, res) => {
 
 exports.updateReseller = async (req, res) => {
   try {
-    const id = req.params.id;
+    const _id = req.params.id;
     const newReseller = req.body
     const data = await readFilePromise("resellers.json", "utf8");
     let resellers = JSON.parse(data);
 
-    const reseller = resellers.find();
+    const reseller = resellers.find(_id);
 
     if (!reseller) {
       return res.status(404).json({
