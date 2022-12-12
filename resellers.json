@@ -1,1658 +1,1470 @@
-[{
-  "_id": {
-    "$oid": "613660ef231e3741b8c1d115"
-  },
-  "pending_vendor_request": [],
-  "status": "active",
-  "first_name": "mihir reseller",
-  "last_name": "sensie",
-  "emailid": "mihir@gmai.com",
-  "password": "okgoogle1",
-  "mobileno": 9723235237,
-  "address": [
+[
     {
-      "is_default": true,
-      "_id": {
-        "$oid": "615d8d125c542432144a852d"
-      },
-      "mobileno_for_address": 9723234237,
-      "address_name": "mihir test",
-      "state": "gujarat",
-      "city": "surat",
-      "pincode": "395006",
-      "address_descrption": "b-5 vrajbhumi vraj chowk jakatanaka"
+        "_id": {
+            "$oid": "61390a2bde378f50c0957275"
+        },
+        "pending_vendor_request": [
+            {
+                "$oid": "613338b805d7671398544b9f"
+            },
+            {
+                "$oid": "6135fc918579f25ac023f76c"
+            },
+            {
+                "$oid": "6133387d05d7671398544b94"
+            }
+        ],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "Hi Home",
+        "last_name": "laa",
+        "mobileno": 7412589637,
+        "password": "reseller",
+        "emailid": "resller@42.com",
+        "address": [
+            {
+                "is_default": false,
+                "_id": {
+                    "$oid": "61a9d6503524e660f8f583ad"
+                },
+                "address_name": "test 1234",
+                "mobileno_for_address": 1111111111,
+                "address_descrption": "17 Momai nager",
+                "pincode": "395004",
+                "city": "Surat City",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-01-28T10:05:10.209Z"
+                },
+                "createdAt": {
+                    "$date": "2021-12-03T08:33:20.325Z"
+                }
+            },
+            {
+                "is_default": false,
+                "_id": {
+                    "$oid": "61ad933634712c7db822e14f"
+                },
+                "address_name": "yagnik satani",
+                "mobileno_for_address": 1234567895,
+                "address_descrption": "17 Momai nager",
+                "pincode": "395006",
+                "city": "Surat",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-01-28T10:05:10.209Z"
+                },
+                "createdAt": {
+                    "$date": "2021-12-06T04:36:06.297Z"
+                }
+            },
+            {
+                "is_default": true,
+                "_id": {
+                    "$oid": "61af4dcb5db60e3d223a9a58"
+                },
+                "address_name": "ttfytf",
+                "mobileno_for_address": 1111111111,
+                "address_descrption": "17 Momai nager",
+                "pincode": "395006",
+                "city": "Surat",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-01-28T10:05:10.221Z"
+                },
+                "createdAt": {
+                    "$date": "2021-12-07T12:04:27.647Z"
+                }
+            },
+            {
+                "is_default": false,
+                "_id": {
+                    "$oid": "61cadaa507a03f47708d44c5"
+                },
+                "address_name": "Girish Chaudhari",
+                "mobileno_for_address": 9168040826,
+                "address_descrption": "Sangana society, near navyug collage adajan",
+                "pincode": "395006",
+                "city": "Surat",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-01-28T10:05:10.209Z"
+                },
+                "createdAt": {
+                    "$date": "2021-12-28T09:36:37.098Z"
+                }
+            }
+        ],
+        "__v": 0,
+        "updatedAt": {
+            "$date": "2022-02-01T06:05:18.463Z"
+        },
+        "profile_image": {
+            "original": "reseller/originalSize/45115.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/45115.jpg",
+            "reduce": "reseller/reduceSize/45115.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/45115.jpg",
+            "medium": "reseller/mediumSize/45115.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/45115.jpg",
+            "small": "reseller/smallSize/45115.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/45115.jpg"
+        }
     },
     {
-      "is_default": false,
-      "_id": {
-        "$oid": "616fbd9ed9a26b791a0b86a6"
-      },
-      "address_name": "",
-      "mobileno_for_address": null,
-      "address_descrption": "",
-      "pincode": "",
-      "city": "",
-      "state": ""
+        "_id": {
+            "$oid": "615d2dc821c39900f810b62a"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 1236547891,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-06T05:02:00.188Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615e9fda5a488567a287a6f1"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 7852146985,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T07:20:58.776Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615ea915807c646b6a1ee2c9"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/devlop.PNG",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/devlop.PNG",
+            "reduce": "reseller/reduceSize/devlop.PNG",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/devlop.PNG",
+            "medium": "reseller/mediumSize/devlop.PNG",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/devlop.PNG",
+            "small": "reseller/smallSize/devlop.PNG",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/devlop.PNG"
+        },
+        "first_name": "yagnik",
+        "last_name": "satani",
+        "mobileno": 1234567895,
+        "password": "canada_javu_6",
+        "emailid": "yagnik@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T08:00:21.567Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-13T05:16:29.723Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615ea9d0807c646b6a1ee2dd"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/native.PNG",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/native.PNG",
+            "reduce": "reseller/reduceSize/native.PNG",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/native.PNG",
+            "medium": "reseller/mediumSize/native.PNG",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/native.PNG",
+            "small": "reseller/smallSize/native.PNG",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/native.PNG"
+        },
+        "first_name": "chintan",
+        "last_name": "patel",
+        "mobileno": 7541236980,
+        "password": "875828",
+        "emailid": "chintan@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T08:03:28.381Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615eab56807c646b6a1ee2ee"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/native.PNG",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/native.PNG",
+            "reduce": "reseller/reduceSize/native.PNG",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/native.PNG",
+            "medium": "reseller/mediumSize/native.PNG",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/native.PNG",
+            "small": "reseller/smallSize/native.PNG",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/native.PNG"
+        },
+        "first_name": "girish",
+        "last_name": "girish",
+        "mobileno": 8758286568,
+        "password": "123abc",
+        "emailid": "girish123@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T08:09:58.349Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-18T08:05:09.101Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615ec757807c646b6a1ee363"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/download.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
+            "reduce": "reseller/reduceSize/download.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
+            "medium": "reseller/mediumSize/download.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
+            "small": "reseller/smallSize/download.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
+        },
+        "first_name": "fgghfhg",
+        "last_name": "jhhffffh",
+        "mobileno": 1345467651,
+        "password": "jghjghhff",
+        "emailid": "hjggh@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T10:09:27.491Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "615ec7f7807c646b6a1ee36c"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/download.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
+            "reduce": "reseller/reduceSize/download.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
+            "medium": "reseller/mediumSize/download.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
+            "small": "reseller/smallSize/download.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
+        },
+        "first_name": "jhfhf",
+        "last_name": "jhhfhfhh",
+        "mobileno": 2456467410,
+        "password": "46546798645",
+        "emailid": "vvgf@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-07T10:12:07.887Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61665fc4daa96621661551cb"
+        },
+        "pending_vendor_request": [
+            {
+                "$oid": "613338b805d7671398544b9f"
+            },
+            {
+                "$oid": "6135f774ababbf246489fc4a"
+            }
+        ],
+        "following_vendor": [
+            {
+                "$oid": "6133387d05d7671398544b94"
+            },
+            {
+                "$oid": "6135fc918579f25ac023f76c"
+            }
+        ],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/download.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
+            "reduce": "reseller/reduceSize/download.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
+            "medium": "reseller/mediumSize/download.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
+            "small": "reseller/smallSize/download.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
+        },
+        "first_name": "yagnik",
+        "last_name": "satani",
+        "mobileno": 1111111111,
+        "password": "admin@123",
+        "emailid": "yagnik@123.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-13T04:25:40.365Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-28T12:12:50.339Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "616d496616c7b061a8ee009b"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/723096-3000x3734-original-koo.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723096-3000x3734-original-koo.png",
+            "reduce": "reseller/reduceSize/723096-3000x3734-original-koo.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723096-3000x3734-original-koo.png",
+            "medium": "reseller/mediumSize/723096-3000x3734-original-koo.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723096-3000x3734-original-koo.png",
+            "small": "reseller/smallSize/723096-3000x3734-original-koo.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723096-3000x3734-original-koo.png"
+        },
+        "first_name": "Hiren ",
+        "last_name": "Patel",
+        "mobileno": 2222222222,
+        "password": "Hirenbf",
+        "emailid": "hiren@hi.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-18T10:16:06.408Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "616d4a5e16c7b061a8ee00d7"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/723095-3000x3535-original-koo.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723095-3000x3535-original-koo.png",
+            "reduce": "reseller/reduceSize/723095-3000x3535-original-koo.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723095-3000x3535-original-koo.png",
+            "medium": "reseller/mediumSize/723095-3000x3535-original-koo.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723095-3000x3535-original-koo.png",
+            "small": "reseller/smallSize/723095-3000x3535-original-koo.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723095-3000x3535-original-koo.png"
+        },
+        "first_name": "cgvgd",
+        "last_name": "fgfgfdf",
+        "mobileno": 6666666666,
+        "password": "mihir132df",
+        "emailid": "gdfdfhi@bfu.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-18T10:20:14.462Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "616d4ac816c7b061a8ee00f0"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/723095-3000x3535-original-koo.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723095-3000x3535-original-koo.png",
+            "reduce": "reseller/reduceSize/723095-3000x3535-original-koo.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723095-3000x3535-original-koo.png",
+            "medium": "reseller/mediumSize/723095-3000x3535-original-koo.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723095-3000x3535-original-koo.png",
+            "small": "reseller/smallSize/723095-3000x3535-original-koo.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723095-3000x3535-original-koo.png"
+        },
+        "first_name": "fsgsfg",
+        "last_name": "fgfgfg",
+        "mobileno": 2146421642,
+        "password": "sfhisdhiknfin",
+        "emailid": "hiren@hidn.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-18T10:22:00.338Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "616ff1a8e9b3b508cbd97851"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/MEARN.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/MEARN.jpg",
+            "reduce": "reseller/reduceSize/MEARN.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/MEARN.jpg",
+            "medium": "reseller/mediumSize/MEARN.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/MEARN.jpg",
+            "small": "reseller/smallSize/MEARN.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/MEARN.jpg"
+        },
+        "first_name": "bks",
+        "last_name": "koladiya",
+        "mobileno": 7878718719,
+        "password": "@@@@Pankaj123",
+        "emailid": "pankaj@godh.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-20T10:38:32.587Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61713a8cb095af6fd1116962"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 9925524995,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T10:01:48.085Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61713b346c8ea07079a63335"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 9998813586,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T10:04:36.525Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61713bce755a4871699593ce"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 7894561325,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T10:07:10.221Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61713dc25dd43678ba3a146e"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 8523574569,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T10:15:30.198Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61713facb1a51d7c9b9ad48d"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "sensei",
+        "last_name": "sir_name",
+        "mobileno": 7418523698,
+        "password": "mihirs",
+        "emailid": "mihi@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T10:23:40.406Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "617148b14ea1bc2ed8cd7f8a"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/Screenshot from 2021-10-19 22-43-42.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "reduce": "reseller/reduceSize/Screenshot from 2021-10-19 22-43-42.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "medium": "reseller/mediumSize/Screenshot from 2021-10-19 22-43-42.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "small": "reseller/smallSize/Screenshot from 2021-10-19 22-43-42.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20from%202021-10-19%2022-43-42.png"
+        },
+        "first_name": "hfdgfdg",
+        "last_name": "fgfsgdhdh",
+        "mobileno": 1234656897,
+        "password": "123456879",
+        "emailid": "pankaj@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T11:02:09.528Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "617149404ea1bc2ed8cd7f99"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/Screenshot from 2021-10-19 22-43-42.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "reduce": "reseller/reduceSize/Screenshot from 2021-10-19 22-43-42.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "medium": "reseller/mediumSize/Screenshot from 2021-10-19 22-43-42.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20from%202021-10-19%2022-43-42.png",
+            "small": "reseller/smallSize/Screenshot from 2021-10-19 22-43-42.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20from%202021-10-19%2022-43-42.png"
+        },
+        "first_name": "hghjf",
+        "last_name": "fdgfsfg",
+        "mobileno": 2345679984,
+        "password": "98768543211",
+        "emailid": "fhjfjhf@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-21T11:04:32.071Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6173a6470952684399751a65"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/1004035.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/1004035.png",
+            "reduce": "reseller/reduceSize/1004035.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/1004035.png",
+            "medium": "reseller/mediumSize/1004035.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/1004035.png",
+            "small": "reseller/smallSize/1004035.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/1004035.png"
+        },
+        "first_name": "hiren",
+        "last_name": "TEST",
+        "mobileno": 9865986532,
+        "password": "556789",
+        "emailid": "admdffin@hidf.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-10-23T06:05:59.487Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "618e055904c3eb3fc005c003"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "Dimpal",
+        "last_name": "shah",
+        "mobileno": 7859632564,
+        "password": "dimpal",
+        "emailid": "dimpal@f.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-12T06:10:33.328Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619b5b5f7194f278bd1eee25"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/download.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
+            "reduce": "reseller/reduceSize/download.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
+            "medium": "reseller/mediumSize/download.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
+            "small": "reseller/smallSize/download.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
+        },
+        "first_name": "thor",
+        "last_name": "marvel",
+        "mobileno": 1561548972,
+        "password": "123456@123",
+        "emailid": "pan@patel.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-22T08:57:03.122Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619c9719c41a7b0f045bdb35"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/il_794xN.3198000486_ey29.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/il_794xN.3198000486_ey29.jpg",
+            "reduce": "reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
+            "medium": "reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
+            "small": "reseller/smallSize/il_794xN.3198000486_ey29.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/il_794xN.3198000486_ey29.jpg"
+        },
+        "first_name": "Test Reseller",
+        "last_name": "Star005",
+        "mobileno": 6744169846,
+        "password": "556789",
+        "emailid": "hiren@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-23T07:24:09.110Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619c97a2c41a7b0f045bdc05"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "profile_image": {
+            "original": "reseller/originalSize/il_794xN.3198000486_ey29.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/il_794xN.3198000486_ey29.jpg",
+            "reduce": "reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
+            "medium": "reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
+            "small": "reseller/smallSize/il_794xN.3198000486_ey29.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/il_794xN.3198000486_ey29.jpg"
+        },
+        "first_name": "Test Reseller",
+        "last_name": "Star005",
+        "mobileno": 6744169842,
+        "password": "556789",
+        "emailid": "hiren@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-23T07:26:26.055Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619ce310d5463a18dcfa9e4c"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "yug",
+        "last_name": "patel",
+        "mobileno": 4563217895,
+        "password": "ompatel",
+        "emailid": "om@patel.com",
+        "profile_image": {
+            "medium": "reseller/mediumSize/iphone.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
+            "original": "reseller/originalSize/iphone.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
+            "reduce": "reseller/reduceSize/iphone.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
+            "small": "reseller/smallSize/iphone.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-23T12:48:16.505Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619ce39dd5463a18dcfa9e50"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "deactive",
+        "first_name": "jnbjhbnm",
+        "last_name": "patel",
+        "mobileno": 7896541239,
+        "password": "ompatel",
+        "emailid": "om@patel.com",
+        "profile_image": {
+            "medium": "reseller/mediumSize/iphone.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
+            "original": "reseller/originalSize/iphone.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
+            "reduce": "reseller/reduceSize/iphone.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
+            "small": "reseller/smallSize/iphone.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-23T12:50:37.437Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:05:20.453Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "619e85b6f156e8284b5df5f1"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "jnbjhbnm",
+        "last_name": "patel",
+        "mobileno": 5454878788,
+        "password": "ompatel",
+        "emailid": "om@patel.com",
+        "profile_image": {
+            "medium": "reseller/mediumSize/iphone.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
+            "original": "reseller/originalSize/iphone.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
+            "reduce": "reseller/reduceSize/iphone.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
+            "small": "reseller/smallSize/iphone.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-24T18:34:30.258Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T09:09:52.081Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a5f013322ad41b6f7a5d0f"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "jnbjhbnm",
+        "last_name": "patel",
+        "mobileno": 7895214632,
+        "password": "ompatel",
+        "emailid": "om@patel.com",
+        "profile_image": {
+            "medium": "reseller/mediumSize/iphone.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
+            "original": "reseller/originalSize/iphone.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
+            "reduce": "reseller/reduceSize/iphone.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
+            "small": "reseller/smallSize/iphone.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-11-30T09:34:11.401Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T09:09:52.081Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a7046dc9d0371bbc484e87"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "parth",
+        "last_name": "shah",
+        "mobileno": 7854623596,
+        "password": "parth",
+        "emailid": "parthshah@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-01T05:13:17.070Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-04T07:54:06.961Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a704ed4aaff110a803d2b4"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "parth",
+        "last_name": "shah",
+        "mobileno": 7854623566,
+        "password": "parth",
+        "emailid": "parthshah@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-01T05:15:25.090Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-04T07:54:06.961Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9e206aaca0d287486fd88"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "demo",
+        "last_name": "demosur",
+        "mobileno": 7854623567,
+        "password": "demo",
+        "emailid": "demo@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T09:23:18.032Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:36:53.839Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9e2f1d3b587194c25e82a"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "demo11",
+        "last_name": "demosur11",
+        "mobileno": 7854623568,
+        "password": "demo",
+        "emailid": "demo@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T09:27:13.682Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:36:53.839Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9e47d960bbb0728fbbef1"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "akansha",
+        "last_name": "pandiya",
+        "mobileno": 7854623569,
+        "password": "ak123",
+        "emailid": "akansha@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T09:33:49.743Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:36:53.839Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9ebe9a1f20e65ec28f6cd"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "jnbjhbnm",
+        "last_name": "patel",
+        "mobileno": 7895214634,
+        "password": "ompatel",
+        "emailid": "om@patel.com",
+        "profile_image": {
+            "medium": "reseller/mediumSize/iphone.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
+            "original": "reseller/originalSize/iphone.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
+            "reduce": "reseller/reduceSize/iphone.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
+            "small": "reseller/smallSize/iphone.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T10:05:29.986Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:14:29.490Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9ec04a1f20e65ec28f6d0"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "first_name": "dherya",
+        "last_name": "shah",
+        "mobileno": 7854623560,
+        "password": "dh123",
+        "emailid": "dherya@gmail.com",
+        "profile_image": {
+            "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
+            "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
+            "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
+        },
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T10:05:56.418Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:14:29.490Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9ec93a1f20e65ec28f6f8"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/ratan tata.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
+            "reduce": "reseller/reduceSize/ratan tata.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
+            "medium": "reseller/mediumSize/ratan tata.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
+            "small": "reseller/smallSize/ratan tata.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
+        },
+        "first_name": "yagnik",
+        "last_name": "satani",
+        "mobileno": 1234567894,
+        "password": "21324556678",
+        "emailid": "hjkgjhg@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T10:08:19.549Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:14:29.490Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61a9ed07a1f20e65ec28f713"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/ratan tata.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
+            "reduce": "reseller/reduceSize/ratan tata.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
+            "medium": "reseller/mediumSize/ratan tata.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
+            "small": "reseller/smallSize/ratan tata.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
+        },
+        "first_name": "mihir ",
+        "last_name": "sensie",
+        "mobileno": 9723234287,
+        "password": "123456789",
+        "emailid": "mihir@yahoo.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-03T10:10:15.962Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:14:29.490Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61b1f3b09fd3190731d8e6cf"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/ratan tata.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
+            "reduce": "reseller/reduceSize/ratan tata.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
+            "medium": "reseller/mediumSize/ratan tata.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
+            "small": "reseller/smallSize/ratan tata.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
+        },
+        "first_name": "gjhgh",
+        "last_name": "bvhgfghfhf",
+        "mobileno": 1254646799,
+        "password": "1221214646+",
+        "emailid": "1ffggfgg@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2021-12-09T12:16:48.462Z"
+        },
+        "updatedAt": {
+            "$date": "2021-12-31T08:14:29.490Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61d3db9093629b3b36ed85fa"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/Screenshot 2021-12-23 153958.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%202021-12-23%20153958.png",
+            "reduce": "reseller/reduceSize/Screenshot 2021-12-23 153958.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%202021-12-23%20153958.png",
+            "medium": "reseller/mediumSize/Screenshot 2021-12-23 153958.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%202021-12-23%20153958.png",
+            "small": "reseller/smallSize/Screenshot 2021-12-23 153958.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%202021-12-23%20153958.png"
+        },
+        "first_name": "balkrushn1",
+        "last_name": "test",
+        "mobileno": 9033325096,
+        "password": "Password@123",
+        "emailid": "itcodehelp@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2022-01-04T05:30:56.674Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-04T05:30:56.674Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61d3dc1693629b3b36ed860a"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [
+            {
+                "$oid": "61336597a6ee6424948735ef"
+            }
+        ],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/Screenshot 2021-12-23 153916.png",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%202021-12-23%20153916.png",
+            "reduce": "reseller/reduceSize/Screenshot 2021-12-23 153916.png",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%202021-12-23%20153916.png",
+            "medium": "reseller/mediumSize/Screenshot 2021-12-23 153916.png",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%202021-12-23%20153916.png",
+            "small": "reseller/smallSize/Screenshot 2021-12-23 153916.png",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%202021-12-23%20153916.png"
+        },
+        "first_name": "ss1",
+        "last_name": "mihir",
+        "mobileno": 8401118811,
+        "password": "Biks00789",
+        "emailid": "itbkmhiir@gmail.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2022-01-04T05:33:10.947Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-04T05:52:17.937Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61f0da822dafd51598c76e75"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "reduce": "reseller/reduceSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "medium": "reseller/mediumSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "small": "reseller/smallSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/3b360279-8b43-40f3-9b11-604749128187.jpg"
+        },
+        "first_name": "dhruv",
+        "last_name": "koladiya",
+        "mobileno": 7878718718,
+        "password": "Biks00789",
+        "emailid": "bk@bk.com",
+        "address": [],
+        "createdAt": {
+            "$date": "2022-01-26T05:22:10.647Z"
+        },
+        "updatedAt": {
+            "$date": "2022-01-26T05:22:10.647Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "623c1a055d76692a6ee53c1e"
+        },
+        "pending_vendor_request": [],
+        "following_vendor": [],
+        "status": "active",
+        "profile_image": {
+            "original": "reseller/originalSize/1 (19).jpg",
+            "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/1%20%2819%29.jpg",
+            "reduce": "reseller/reduceSize/1 (19).jpg",
+            "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/1%20%2819%29.jpg",
+            "medium": "reseller/mediumSize/1 (19).jpg",
+            "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/1%20%2819%29.jpg",
+            "small": "reseller/smallSize/1 (19).jpg",
+            "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/1%20%2819%29.jpg"
+        },
+        "first_name": "Chintan",
+        "last_name": "koll",
+        "mobileno": 9773246687,
+        "password": "Biks00789",
+        "emailid": "chintan.it@gmail.com",
+        "address": [
+            {
+                "is_default": true,
+                "_id": {
+                    "$oid": "623c1c855d76692a6ee53dc9"
+                },
+                "address_name": "balkrushn",
+                "mobileno_for_address": 9033325096,
+                "address_descrption": "ba;kri jksdnfoi iehifh ",
+                "pincode": "395004",
+                "city": "Surat City",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-03-24T07:23:49.244Z"
+                },
+                "createdAt": {
+                    "$date": "2022-03-24T07:23:49.244Z"
+                }
+            },
+            {
+                "is_default": false,
+                "_id": {
+                    "$oid": "624d25755d76692a6ee5a6bf"
+                },
+                "address_name": "asdfsdf",
+                "mobileno_for_address": 4324234234,
+                "address_descrption": "sdfdsf fd sf fdg g",
+                "pincode": "395001",
+                "city": "Surat City",
+                "state": "Gujarat",
+                "updatedAt": {
+                    "$date": "2022-04-06T05:30:29.673Z"
+                },
+                "createdAt": {
+                    "$date": "2022-04-06T05:30:29.673Z"
+                }
+            }
+        ],
+        "createdAt": {
+            "$date": "2022-03-24T07:13:09.190Z"
+        },
+        "updatedAt": {
+            "$date": "2022-04-13T12:32:48.150Z"
+        },
+        "__v": 0
     }
-  ],
-  "__v": 0,
-  "profile_image": {
-    "original": "reseller/originalSize/test.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/test.jpg",
-    "reduce": "reseller/reduceSize/test.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/test.jpg",
-    "medium": "reseller/mediumSize/test.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/test.jpg",
-    "small": "reseller/smallSize/test.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/test.jpg"
-  },
-  "following_vendor": [
-    {
-      "$oid": "6133387d05d7671398544b94"
-    },
-    {
-      "$oid": "613338b805d7671398544b9f"
-    }
-  ],
-  "updatedAt": {
-    "$date": "2022-04-12T09:14:24.403Z"
-  }
-},{
-  "_id": {
-    "$oid": "6136614d5fa0b048588206bc"
-  },
-  "pending_vendor_request": [
-    {
-      "$oid": "6139a1f9bae7a21dac4ea7be"
-    },
-    {
-      "$oid": "6133387d05d7671398544b94"
-    },
-    {
-      "$oid": "6135fc918579f25ac023f76c"
-    }
-  ],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "mihir reseller11",
-  "last_name": "sensie",
-  "emailid": "mihir@gmai.com",
-  "password": "556789",
-  "mobileno": 9723234238,
-  "__v": 0,
-  "profile_image ": {},
-  "updatedAt": {
-    "$date": "2022-04-16T04:24:54.327Z"
-  },
-  "profile_image": {
-    "original": "reseller/originalSize/p-1 (4) - Copy.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/p-1%20%284%29%20-%20Copy.jpg",
-    "reduce": "reseller/reduceSize/p-1 (4) - Copy.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/p-1%20%284%29%20-%20Copy.jpg",
-    "medium": "reseller/mediumSize/p-1 (4) - Copy.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/p-1%20%284%29%20-%20Copy.jpg",
-    "small": "reseller/smallSize/p-1 (4) - Copy.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/p-1%20%284%29%20-%20Copy.jpg"
-  },
-  "address": [
-    {
-      "is_default": true,
-      "_id": {
-        "$oid": "62386a2d5d76692a6ee51eec"
-      },
-      "address_name": "robinhood",
-      "mobileno_for_address": 7434015778,
-      "address_descrption": "surat velanja",
-      "pincode": "395004",
-      "city": "Surat City",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-04-13T04:54:37.724Z"
-      },
-      "createdAt": {
-        "$date": "2022-03-21T12:06:05.315Z"
-      }
-    },
-    {
-      "is_default": false,
-      "_id": {
-        "$oid": "6239a03d5d76692a6ee52700"
-      },
-      "address_name": "nikunj shiyani",
-      "mobileno_for_address": 1234567788,
-      "address_descrption": "sargam societty",
-      "pincode": "395010",
-      "city": "Surat City",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-04-13T04:54:37.718Z"
-      },
-      "createdAt": {
-        "$date": "2022-03-22T10:09:01.465Z"
-      }
-    }
-  ]
-},{
-  "_id": {
-    "$oid": "6139084b4b5eca42e4875a6a"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "reseller 1",
-  "last_name": "laa",
-  "mobileno": 7412589632,
-  "password": "reseller",
-  "emailid": "resller@42.com",
-  "address": [],
-  "__v": 0,
-  "updatedAt": {
-    "$date": "2022-02-04T11:26:12.003Z"
-  },
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot (17).png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20%2817%29.png",
-    "reduce": "reseller/reduceSize/Screenshot (17).png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20%2817%29.png",
-    "medium": "reseller/mediumSize/Screenshot (17).png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20%2817%29.png",
-    "small": "reseller/smallSize/Screenshot (17).png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20%2817%29.png"
-  }
-},{
-  "_id": {
-    "$oid": "6139091452a28658b0441ee1"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "reseller2",
-  "last_name": "laa",
-  "mobileno": 7412589633,
-  "password": "reseller",
-  "emailid": "resller@42.com",
-  "address": [],
-  "__v": 0,
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  }
-},{
-  "_id": {
-    "$oid": "6139097b8742406354ea4f42"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "reseller4",
-  "last_name": "laa",
-  "mobileno": 7412589634,
-  "password": "reseller",
-  "emailid": "resller@42.com",
-  "address": [],
-  "__v": 0,
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot (7).png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20%287%29.png",
-    "reduce": "reseller/reduceSize/Screenshot (7).png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20%287%29.png",
-    "medium": "reseller/mediumSize/Screenshot (7).png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20%287%29.png",
-    "small": "reseller/smallSize/Screenshot (7).png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20%287%29.png"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  }
-},{
-  "_id": {
-    "$oid": "61390a0be5b1fb5b2cefb092"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "reseller5",
-  "last_name": "laa",
-  "mobileno": 7412589635,
-  "password": "reseller",
-  "emailid": "resller@42.com",
-  "address": [],
-  "__v": 0,
-  "profile_image": {
-    "original": "reseller/originalSize/632051.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/632051.png",
-    "reduce": "reseller/reduceSize/632051.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/632051.png",
-    "medium": "reseller/mediumSize/632051.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/632051.png",
-    "small": "reseller/smallSize/632051.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/632051.png"
-  },
-  "updatedAt": {
-    "$date": "2022-01-04T07:50:50.524Z"
-  }
-},{
-  "_id": {
-    "$oid": "61390a2bde378f50c0957275"
-  },
-  "pending_vendor_request": [
-    {
-      "$oid": "613338b805d7671398544b9f"
-    },
-    {
-      "$oid": "6135fc918579f25ac023f76c"
-    },
-    {
-      "$oid": "6133387d05d7671398544b94"
-    }
-  ],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "Hi Home",
-  "last_name": "laa",
-  "mobileno": 7412589637,
-  "password": "reseller",
-  "emailid": "resller@42.com",
-  "address": [
-    {
-      "is_default": false,
-      "_id": {
-        "$oid": "61a9d6503524e660f8f583ad"
-      },
-      "address_name": "test 1234",
-      "mobileno_for_address": 1111111111,
-      "address_descrption": "17 Momai nager",
-      "pincode": "395004",
-      "city": "Surat City",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-01-28T10:05:10.209Z"
-      },
-      "createdAt": {
-        "$date": "2021-12-03T08:33:20.325Z"
-      }
-    },
-    {
-      "is_default": false,
-      "_id": {
-        "$oid": "61ad933634712c7db822e14f"
-      },
-      "address_name": "yagnik satani",
-      "mobileno_for_address": 1234567895,
-      "address_descrption": "17 Momai nager",
-      "pincode": "395006",
-      "city": "Surat",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-01-28T10:05:10.209Z"
-      },
-      "createdAt": {
-        "$date": "2021-12-06T04:36:06.297Z"
-      }
-    },
-    {
-      "is_default": true,
-      "_id": {
-        "$oid": "61af4dcb5db60e3d223a9a58"
-      },
-      "address_name": "ttfytf",
-      "mobileno_for_address": 1111111111,
-      "address_descrption": "17 Momai nager",
-      "pincode": "395006",
-      "city": "Surat",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-01-28T10:05:10.221Z"
-      },
-      "createdAt": {
-        "$date": "2021-12-07T12:04:27.647Z"
-      }
-    },
-    {
-      "is_default": false,
-      "_id": {
-        "$oid": "61cadaa507a03f47708d44c5"
-      },
-      "address_name": "Girish Chaudhari",
-      "mobileno_for_address": 9168040826,
-      "address_descrption": "Sangana society, near navyug collage adajan",
-      "pincode": "395006",
-      "city": "Surat",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-01-28T10:05:10.209Z"
-      },
-      "createdAt": {
-        "$date": "2021-12-28T09:36:37.098Z"
-      }
-    }
-  ],
-  "__v": 0,
-  "updatedAt": {
-    "$date": "2022-02-01T06:05:18.463Z"
-  },
-  "profile_image": {
-    "original": "reseller/originalSize/45115.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/45115.jpg",
-    "reduce": "reseller/reduceSize/45115.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/45115.jpg",
-    "medium": "reseller/mediumSize/45115.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/45115.jpg",
-    "small": "reseller/smallSize/45115.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/45115.jpg"
-  }
-},{
-  "_id": {
-    "$oid": "615d2dc821c39900f810b62a"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 1236547891,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-06T05:02:00.188Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615e9fda5a488567a287a6f1"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 7852146985,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T07:20:58.776Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615ea915807c646b6a1ee2c9"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/devlop.PNG",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/devlop.PNG",
-    "reduce": "reseller/reduceSize/devlop.PNG",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/devlop.PNG",
-    "medium": "reseller/mediumSize/devlop.PNG",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/devlop.PNG",
-    "small": "reseller/smallSize/devlop.PNG",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/devlop.PNG"
-  },
-  "first_name": "yagnik",
-  "last_name": "satani",
-  "mobileno": 1234567895,
-  "password": "canada_javu_6",
-  "emailid": "yagnik@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T08:00:21.567Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-13T05:16:29.723Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615ea9d0807c646b6a1ee2dd"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/native.PNG",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/native.PNG",
-    "reduce": "reseller/reduceSize/native.PNG",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/native.PNG",
-    "medium": "reseller/mediumSize/native.PNG",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/native.PNG",
-    "small": "reseller/smallSize/native.PNG",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/native.PNG"
-  },
-  "first_name": "chintan",
-  "last_name": "patel",
-  "mobileno": 7541236980,
-  "password": "875828",
-  "emailid": "chintan@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T08:03:28.381Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615eab56807c646b6a1ee2ee"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/native.PNG",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/native.PNG",
-    "reduce": "reseller/reduceSize/native.PNG",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/native.PNG",
-    "medium": "reseller/mediumSize/native.PNG",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/native.PNG",
-    "small": "reseller/smallSize/native.PNG",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/native.PNG"
-  },
-  "first_name": "girish",
-  "last_name": "girish",
-  "mobileno": 8758286568,
-  "password": "123abc",
-  "emailid": "girish123@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T08:09:58.349Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-18T08:05:09.101Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615ec757807c646b6a1ee363"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/download.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
-    "reduce": "reseller/reduceSize/download.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
-    "medium": "reseller/mediumSize/download.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
-    "small": "reseller/smallSize/download.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
-  },
-  "first_name": "fgghfhg",
-  "last_name": "jhhffffh",
-  "mobileno": 1345467651,
-  "password": "jghjghhff",
-  "emailid": "hjggh@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T10:09:27.491Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "615ec7f7807c646b6a1ee36c"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/download.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
-    "reduce": "reseller/reduceSize/download.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
-    "medium": "reseller/mediumSize/download.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
-    "small": "reseller/smallSize/download.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
-  },
-  "first_name": "jhfhf",
-  "last_name": "jhhfhfhh",
-  "mobileno": 2456467410,
-  "password": "46546798645",
-  "emailid": "vvgf@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-07T10:12:07.887Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61665fc4daa96621661551cb"
-  },
-  "pending_vendor_request": [
-    {
-      "$oid": "613338b805d7671398544b9f"
-    },
-    {
-      "$oid": "6135f774ababbf246489fc4a"
-    }
-  ],
-  "following_vendor": [
-    {
-      "$oid": "6133387d05d7671398544b94"
-    },
-    {
-      "$oid": "6135fc918579f25ac023f76c"
-    }
-  ],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/download.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
-    "reduce": "reseller/reduceSize/download.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
-    "medium": "reseller/mediumSize/download.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
-    "small": "reseller/smallSize/download.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
-  },
-  "first_name": "yagnik",
-  "last_name": "satani",
-  "mobileno": 1111111111,
-  "password": "admin@123",
-  "emailid": "yagnik@123.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-13T04:25:40.365Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-28T12:12:50.339Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "616d496616c7b061a8ee009b"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/723096-3000x3734-original-koo.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723096-3000x3734-original-koo.png",
-    "reduce": "reseller/reduceSize/723096-3000x3734-original-koo.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723096-3000x3734-original-koo.png",
-    "medium": "reseller/mediumSize/723096-3000x3734-original-koo.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723096-3000x3734-original-koo.png",
-    "small": "reseller/smallSize/723096-3000x3734-original-koo.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723096-3000x3734-original-koo.png"
-  },
-  "first_name": "Hiren ",
-  "last_name": "Patel",
-  "mobileno": 2222222222,
-  "password": "Hirenbf",
-  "emailid": "hiren@hi.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-18T10:16:06.408Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "616d4a5e16c7b061a8ee00d7"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/723095-3000x3535-original-koo.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723095-3000x3535-original-koo.png",
-    "reduce": "reseller/reduceSize/723095-3000x3535-original-koo.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723095-3000x3535-original-koo.png",
-    "medium": "reseller/mediumSize/723095-3000x3535-original-koo.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723095-3000x3535-original-koo.png",
-    "small": "reseller/smallSize/723095-3000x3535-original-koo.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723095-3000x3535-original-koo.png"
-  },
-  "first_name": "cgvgd",
-  "last_name": "fgfgfdf",
-  "mobileno": 6666666666,
-  "password": "mihir132df",
-  "emailid": "gdfdfhi@bfu.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-18T10:20:14.462Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "616d4ac816c7b061a8ee00f0"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/723095-3000x3535-original-koo.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/723095-3000x3535-original-koo.png",
-    "reduce": "reseller/reduceSize/723095-3000x3535-original-koo.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/723095-3000x3535-original-koo.png",
-    "medium": "reseller/mediumSize/723095-3000x3535-original-koo.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/723095-3000x3535-original-koo.png",
-    "small": "reseller/smallSize/723095-3000x3535-original-koo.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/723095-3000x3535-original-koo.png"
-  },
-  "first_name": "fsgsfg",
-  "last_name": "fgfgfg",
-  "mobileno": 2146421642,
-  "password": "sfhisdhiknfin",
-  "emailid": "hiren@hidn.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-18T10:22:00.338Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "616ff1a8e9b3b508cbd97851"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/MEARN.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/MEARN.jpg",
-    "reduce": "reseller/reduceSize/MEARN.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/MEARN.jpg",
-    "medium": "reseller/mediumSize/MEARN.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/MEARN.jpg",
-    "small": "reseller/smallSize/MEARN.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/MEARN.jpg"
-  },
-  "first_name": "bks",
-  "last_name": "koladiya",
-  "mobileno": 7878718719,
-  "password": "@@@@Pankaj123",
-  "emailid": "pankaj@godh.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-20T10:38:32.587Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61713a8cb095af6fd1116962"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 9925524995,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T10:01:48.085Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61713b346c8ea07079a63335"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 9998813586,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T10:04:36.525Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61713bce755a4871699593ce"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 7894561325,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T10:07:10.221Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61713dc25dd43678ba3a146e"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 8523574569,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T10:15:30.198Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61713facb1a51d7c9b9ad48d"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "sensei",
-  "last_name": "sir_name",
-  "mobileno": 7418523698,
-  "password": "mihirs",
-  "emailid": "mihi@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T10:23:40.406Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "617148b14ea1bc2ed8cd7f8a"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot from 2021-10-19 22-43-42.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "reduce": "reseller/reduceSize/Screenshot from 2021-10-19 22-43-42.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "medium": "reseller/mediumSize/Screenshot from 2021-10-19 22-43-42.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "small": "reseller/smallSize/Screenshot from 2021-10-19 22-43-42.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20from%202021-10-19%2022-43-42.png"
-  },
-  "first_name": "hfdgfdg",
-  "last_name": "fgfsgdhdh",
-  "mobileno": 1234656897,
-  "password": "123456879",
-  "emailid": "pankaj@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T11:02:09.528Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "617149404ea1bc2ed8cd7f99"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot from 2021-10-19 22-43-42.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "reduce": "reseller/reduceSize/Screenshot from 2021-10-19 22-43-42.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "medium": "reseller/mediumSize/Screenshot from 2021-10-19 22-43-42.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%20from%202021-10-19%2022-43-42.png",
-    "small": "reseller/smallSize/Screenshot from 2021-10-19 22-43-42.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%20from%202021-10-19%2022-43-42.png"
-  },
-  "first_name": "hghjf",
-  "last_name": "fdgfsfg",
-  "mobileno": 2345679984,
-  "password": "98768543211",
-  "emailid": "fhjfjhf@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-21T11:04:32.071Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6173a6470952684399751a65"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/1004035.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/1004035.png",
-    "reduce": "reseller/reduceSize/1004035.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/1004035.png",
-    "medium": "reseller/mediumSize/1004035.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/1004035.png",
-    "small": "reseller/smallSize/1004035.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/1004035.png"
-  },
-  "first_name": "hiren",
-  "last_name": "TEST",
-  "mobileno": 9865986532,
-  "password": "556789",
-  "emailid": "admdffin@hidf.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-10-23T06:05:59.487Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "618e055904c3eb3fc005c003"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "Dimpal",
-  "last_name": "shah",
-  "mobileno": 7859632564,
-  "password": "dimpal",
-  "emailid": "dimpal@f.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-12T06:10:33.328Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619b5b5f7194f278bd1eee25"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/download.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/download.jpg",
-    "reduce": "reseller/reduceSize/download.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/download.jpg",
-    "medium": "reseller/mediumSize/download.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/download.jpg",
-    "small": "reseller/smallSize/download.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/download.jpg"
-  },
-  "first_name": "thor",
-  "last_name": "marvel",
-  "mobileno": 1561548972,
-  "password": "123456@123",
-  "emailid": "pan@patel.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-22T08:57:03.122Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619c9719c41a7b0f045bdb35"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/il_794xN.3198000486_ey29.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/il_794xN.3198000486_ey29.jpg",
-    "reduce": "reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
-    "medium": "reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
-    "small": "reseller/smallSize/il_794xN.3198000486_ey29.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/il_794xN.3198000486_ey29.jpg"
-  },
-  "first_name": "Test Reseller",
-  "last_name": "Star005",
-  "mobileno": 6744169846,
-  "password": "556789",
-  "emailid": "hiren@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-23T07:24:09.110Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619c97a2c41a7b0f045bdc05"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "profile_image": {
-    "original": "reseller/originalSize/il_794xN.3198000486_ey29.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/il_794xN.3198000486_ey29.jpg",
-    "reduce": "reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/il_794xN.3198000486_ey29.jpg",
-    "medium": "reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/il_794xN.3198000486_ey29.jpg",
-    "small": "reseller/smallSize/il_794xN.3198000486_ey29.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/il_794xN.3198000486_ey29.jpg"
-  },
-  "first_name": "Test Reseller",
-  "last_name": "Star005",
-  "mobileno": 6744169842,
-  "password": "556789",
-  "emailid": "hiren@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-23T07:26:26.055Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619ce310d5463a18dcfa9e4c"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "yug",
-  "last_name": "patel",
-  "mobileno": 4563217895,
-  "password": "ompatel",
-  "emailid": "om@patel.com",
-  "profile_image": {
-    "medium": "reseller/mediumSize/iphone.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
-    "original": "reseller/originalSize/iphone.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
-    "reduce": "reseller/reduceSize/iphone.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
-    "small": "reseller/smallSize/iphone.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-23T12:48:16.505Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619ce39dd5463a18dcfa9e50"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "deactive",
-  "first_name": "jnbjhbnm",
-  "last_name": "patel",
-  "mobileno": 7896541239,
-  "password": "ompatel",
-  "emailid": "om@patel.com",
-  "profile_image": {
-    "medium": "reseller/mediumSize/iphone.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
-    "original": "reseller/originalSize/iphone.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
-    "reduce": "reseller/reduceSize/iphone.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
-    "small": "reseller/smallSize/iphone.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-23T12:50:37.437Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:05:20.453Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "619e85b6f156e8284b5df5f1"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "jnbjhbnm",
-  "last_name": "patel",
-  "mobileno": 5454878788,
-  "password": "ompatel",
-  "emailid": "om@patel.com",
-  "profile_image": {
-    "medium": "reseller/mediumSize/iphone.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
-    "original": "reseller/originalSize/iphone.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
-    "reduce": "reseller/reduceSize/iphone.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
-    "small": "reseller/smallSize/iphone.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-24T18:34:30.258Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T09:09:52.081Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a5f013322ad41b6f7a5d0f"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "jnbjhbnm",
-  "last_name": "patel",
-  "mobileno": 7895214632,
-  "password": "ompatel",
-  "emailid": "om@patel.com",
-  "profile_image": {
-    "medium": "reseller/mediumSize/iphone.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
-    "original": "reseller/originalSize/iphone.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
-    "reduce": "reseller/reduceSize/iphone.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
-    "small": "reseller/smallSize/iphone.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-11-30T09:34:11.401Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T09:09:52.081Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a7046dc9d0371bbc484e87"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "parth",
-  "last_name": "shah",
-  "mobileno": 7854623596,
-  "password": "parth",
-  "emailid": "parthshah@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-01T05:13:17.070Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-04T07:54:06.961Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a704ed4aaff110a803d2b4"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "parth",
-  "last_name": "shah",
-  "mobileno": 7854623566,
-  "password": "parth",
-  "emailid": "parthshah@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-01T05:15:25.090Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-04T07:54:06.961Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9e206aaca0d287486fd88"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "demo",
-  "last_name": "demosur",
-  "mobileno": 7854623567,
-  "password": "demo",
-  "emailid": "demo@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T09:23:18.032Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:36:53.839Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9e2f1d3b587194c25e82a"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "demo11",
-  "last_name": "demosur11",
-  "mobileno": 7854623568,
-  "password": "demo",
-  "emailid": "demo@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T09:27:13.682Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:36:53.839Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9e47d960bbb0728fbbef1"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "akansha",
-  "last_name": "pandiya",
-  "mobileno": 7854623569,
-  "password": "ak123",
-  "emailid": "akansha@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T09:33:49.743Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:36:53.839Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9ebe9a1f20e65ec28f6cd"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "jnbjhbnm",
-  "last_name": "patel",
-  "mobileno": 7895214634,
-  "password": "ompatel",
-  "emailid": "om@patel.com",
-  "profile_image": {
-    "medium": "reseller/mediumSize/iphone.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/iphone.png",
-    "original": "reseller/originalSize/iphone.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/iphone.png",
-    "reduce": "reseller/reduceSize/iphone.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/iphone.png",
-    "small": "reseller/smallSize/iphone.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/iphone.png"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T10:05:29.986Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9ec04a1f20e65ec28f6d0"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "first_name": "dherya",
-  "last_name": "shah",
-  "mobileno": 7854623560,
-  "password": "dh123",
-  "emailid": "dherya@gmail.com",
-  "profile_image": {
-    "original": "reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduce": "reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/WIN_20210928_16_11_48_Pro.jpg",
-    "medium": "reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/WIN_20210928_16_11_48_Pro.jpg",
-    "small": "reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/WIN_20210928_16_11_48_Pro.jpg"
-  },
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T10:05:56.418Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9ec93a1f20e65ec28f6f8"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/ratan tata.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
-    "reduce": "reseller/reduceSize/ratan tata.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
-    "medium": "reseller/mediumSize/ratan tata.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
-    "small": "reseller/smallSize/ratan tata.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
-  },
-  "first_name": "yagnik",
-  "last_name": "satani",
-  "mobileno": 1234567894,
-  "password": "21324556678",
-  "emailid": "hjkgjhg@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T10:08:19.549Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61a9ed07a1f20e65ec28f713"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/ratan tata.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
-    "reduce": "reseller/reduceSize/ratan tata.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
-    "medium": "reseller/mediumSize/ratan tata.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
-    "small": "reseller/smallSize/ratan tata.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
-  },
-  "first_name": "mihir ",
-  "last_name": "sensie",
-  "mobileno": 9723234287,
-  "password": "123456789",
-  "emailid": "mihir@yahoo.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-03T10:10:15.962Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61b1f3b09fd3190731d8e6cf"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/ratan tata.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/ratan%20tata.jpg",
-    "reduce": "reseller/reduceSize/ratan tata.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/ratan%20tata.jpg",
-    "medium": "reseller/mediumSize/ratan tata.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/ratan%20tata.jpg",
-    "small": "reseller/smallSize/ratan tata.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/ratan%20tata.jpg"
-  },
-  "first_name": "gjhgh",
-  "last_name": "bvhgfghfhf",
-  "mobileno": 1254646799,
-  "password": "1221214646+",
-  "emailid": "1ffggfgg@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2021-12-09T12:16:48.462Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-31T08:14:29.490Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61d3db9093629b3b36ed85fa"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot 2021-12-23 153958.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%202021-12-23%20153958.png",
-    "reduce": "reseller/reduceSize/Screenshot 2021-12-23 153958.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%202021-12-23%20153958.png",
-    "medium": "reseller/mediumSize/Screenshot 2021-12-23 153958.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%202021-12-23%20153958.png",
-    "small": "reseller/smallSize/Screenshot 2021-12-23 153958.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%202021-12-23%20153958.png"
-  },
-  "first_name": "balkrushn1",
-  "last_name": "test",
-  "mobileno": 9033325096,
-  "password": "Password@123",
-  "emailid": "itcodehelp@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2022-01-04T05:30:56.674Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-04T05:30:56.674Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61d3dc1693629b3b36ed860a"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [
-    {
-      "$oid": "61336597a6ee6424948735ef"
-    }
-  ],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/Screenshot 2021-12-23 153916.png",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/Screenshot%202021-12-23%20153916.png",
-    "reduce": "reseller/reduceSize/Screenshot 2021-12-23 153916.png",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/Screenshot%202021-12-23%20153916.png",
-    "medium": "reseller/mediumSize/Screenshot 2021-12-23 153916.png",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/Screenshot%202021-12-23%20153916.png",
-    "small": "reseller/smallSize/Screenshot 2021-12-23 153916.png",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/Screenshot%202021-12-23%20153916.png"
-  },
-  "first_name": "ss1",
-  "last_name": "mihir",
-  "mobileno": 8401118811,
-  "password": "Biks00789",
-  "emailid": "itbkmhiir@gmail.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2022-01-04T05:33:10.947Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-04T05:52:17.937Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61f0da822dafd51598c76e75"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "reduce": "reseller/reduceSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "medium": "reseller/mediumSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "small": "reseller/smallSize/3b360279-8b43-40f3-9b11-604749128187.jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/3b360279-8b43-40f3-9b11-604749128187.jpg"
-  },
-  "first_name": "dhruv",
-  "last_name": "koladiya",
-  "mobileno": 7878718718,
-  "password": "Biks00789",
-  "emailid": "bk@bk.com",
-  "address": [],
-  "createdAt": {
-    "$date": "2022-01-26T05:22:10.647Z"
-  },
-  "updatedAt": {
-    "$date": "2022-01-26T05:22:10.647Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "623c1a055d76692a6ee53c1e"
-  },
-  "pending_vendor_request": [],
-  "following_vendor": [],
-  "status": "active",
-  "profile_image": {
-    "original": "reseller/originalSize/1 (19).jpg",
-    "originalURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/originalSize/1%20%2819%29.jpg",
-    "reduce": "reseller/reduceSize/1 (19).jpg",
-    "reduceURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/reduceSize/1%20%2819%29.jpg",
-    "medium": "reseller/mediumSize/1 (19).jpg",
-    "mediumURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/mediumSize/1%20%2819%29.jpg",
-    "small": "reseller/smallSize/1 (19).jpg",
-    "smallURL": "https://otmline.s3.ap-south-1.amazonaws.com/reseller/smallSize/1%20%2819%29.jpg"
-  },
-  "first_name": "Chintan",
-  "last_name": "koll",
-  "mobileno": 9773246687,
-  "password": "Biks00789",
-  "emailid": "chintan.it@gmail.com",
-  "address": [
-    {
-      "is_default": true,
-      "_id": {
-        "$oid": "623c1c855d76692a6ee53dc9"
-      },
-      "address_name": "balkrushn",
-      "mobileno_for_address": 9033325096,
-      "address_descrption": "ba;kri jksdnfoi iehifh ",
-      "pincode": "395004",
-      "city": "Surat City",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-03-24T07:23:49.244Z"
-      },
-      "createdAt": {
-        "$date": "2022-03-24T07:23:49.244Z"
-      }
-    },
-    {
-      "is_default": false,
-      "_id": {
-        "$oid": "624d25755d76692a6ee5a6bf"
-      },
-      "address_name": "asdfsdf",
-      "mobileno_for_address": 4324234234,
-      "address_descrption": "sdfdsf fd sf fdg g",
-      "pincode": "395001",
-      "city": "Surat City",
-      "state": "Gujarat",
-      "updatedAt": {
-        "$date": "2022-04-06T05:30:29.673Z"
-      },
-      "createdAt": {
-        "$date": "2022-04-06T05:30:29.673Z"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2022-03-24T07:13:09.190Z"
-  },
-  "updatedAt": {
-    "$date": "2022-04-13T12:32:48.150Z"
-  },
-  "__v": 0
-}]
+]

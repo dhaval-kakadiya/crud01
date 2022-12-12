@@ -1,11 +1,14 @@
 const express = require("express");
 const router = express.Router();
 
-const {getAllData} = require("../controller/orderController");
+const {
+  getAllData,
+  getOrderByStatus,
+  updateOrderStatus,
+} = require("../controller/orderController");
 
-router.get("/alldata",getAllData);
-
-
-
+router.get("/alldata", getAllData);
+router.get("/", getOrderByStatus);
+router.post("/update/:id", updateOrderStatus);
 
 module.exports = router;
