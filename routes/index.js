@@ -9,4 +9,4 @@ router.use("/order", orderRoute);
 router.use("/reseller", resellerRoute);
 router.use("/vendor", vendorRoute);
 
-module.exports = router;
+module.exports = router;  

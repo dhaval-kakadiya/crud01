@@ -100,6 +100,75 @@ exports.updateOrderStatus = async (req, res) => {
   }
 };
 
+// <<<<<<<<<<<<<<<< FILTERD ORDER BY SAME VENDOR FOLLOWED BY SAME RESELLERS >>>>>>>>>>>
+
+exports.getOrderByVendorId = async (req, res) => {
+  try {
+    const ven_id = req.params.id;
+
+    const filePath = path.join(__dirname, "../orders.json");
+
+    const data = await readFilePromise(filePath, "utf8");
+    let orders = JSON.parse(data);
+
+    const order = orders.filter((order) => order.vendor_id.$oid === ven_id);
+
+    if (!order) {
+      return res.status(404).json({
+        success: false,
+        message: "Failed !! Order Not Found By Vendor ID ",
+      });
+    }
+
+    return res.status(200).json({
+      success: true,
+      message: "Successfully,Order Data Readed Have Vendor Id",
+      data: order,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      success: false,
+      message: "Failed !! Order Not Read",
+      data: error.message,
+    });
+  }
+};
+
+// <<<<<<<<<<<<< READ ORDERS HAVING RESELLERS ID >>>>>>>>>>>>>>>
+
+exports.getOrderByResellerId = async (req, res) => {
+  try {
+    const res_id = req.params.id;
+
+    const filePath = path.join(__dirname, "../orders.json");
+
+    const data = await readFilePromise(filePath, "utf8");
+    let orders = JSON.parse(data);
+
+    console.log(orders.length)
+    const order = orders.filter((order) => order.reseller_by.$oid === res_id);
+    console.log(order.length)
+    if (!order) {
+      return res.status(404).json({
+        success: false,
+        message: "Failed !! Order Not Found By Reseller ID ",
+      });
+    }
+
+    return res.status(200).json({
+      success: true,
+      message: "Successfully,Order Data Readed Have Reseller Id",
+      data: order,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      success: false,
+      message: "Failed !! Order Not Read",
+      data: error.message,
+    });
+  }
+};
+
 // <<<<<<<<<<<<<<<<<<<<<< CONVERTING CALLBACK FUNCTION IN A PROMISE  >>>>>>>>>>>
 
 const readFilePromise = (fileName, encoding) => {
