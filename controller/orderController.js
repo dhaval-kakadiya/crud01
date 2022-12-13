@@ -32,7 +32,7 @@ exports.getOrderByStatus = async (req, res) => {
     const data = await readFilePromise(filePath, "utf8");
     let orders = JSON.parse(data);
 
-    const order = orders.filter((order) => order.order_status === statusQuery);
+    const order = orders.find((order) => order.order_status === statusQuery);
 
     if (!order) {
       return res.status(404).json({
@@ -147,7 +147,7 @@ exports.getOrderByResellerId = async (req, res) => {
 
     console.log(orders.length)
     const order = orders.filter((order) => order.reseller_by.$oid === res_id);
-    console.log(order.length)
+    console.log(orders.length)
     if (!order) {
       return res.status(404).json({
         success: false,

@@ -35,6 +35,8 @@ exports.getVendorById = async (req, res) => {
 
     const vendor = vendors.find((vendor) => vendor._id.$oid === id);
 
+
+
     if (!vendor) {
       return res.status(404).json({
         success: false,
@@ -60,15 +62,16 @@ exports.getVendorById = async (req, res) => {
 
 exports.getVendorByStatus = async (req, res) => {
   try {
-    const statusQuery = req.query;
+    const statusQuery = req.query.status;
 
     const filePath = path.join(__dirname, "../vendors.json");
 
     const data = await readFilePromise(filePath, "utf8");
     let vendors = JSON.parse(data);
 
-    const vendor = vendors.filter((vendor) => vendor.status === statusQuery);
-
+    console.log(vendors.length)
+    const vendor = vendors.filter((vendor) => vendor.status === statusQuery );
+    console.log(vendor.length)
     if (!vendor) {
       return res.status(404).json({
         success: false,
